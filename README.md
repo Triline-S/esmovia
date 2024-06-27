@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Triline-S/esmovia">
-    <img src="img/poster.png" alt="Logo" width="80" height="80">
+    <img src="img/poster.png" alt="Logo" width="160" height="160">
   </a>
 
 <h3 align="center">ESMOVIA Project</h3>
@@ -70,7 +70,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -130,22 +129,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Deploy the repo to GitHub
-- [ ] Add features
-- [ ] Bugfixing
-- [ ] Polishing and finish
-
-
-See the [open issues](https://github.com/Triline-S/esmovia/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
