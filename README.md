@@ -74,7 +74,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -93,8 +92,8 @@
 ### Built With
 
 
-* [![React][React.js]][React-url]
-* [![Angular][Angular.io]][Angular-url]
+* HTML
+* CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,14 +105,6 @@
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-You'll need those before using this app:
-
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -123,10 +114,9 @@ To install this repo follow these steps:
    ```sh
    git clone https://github.com/Triline-S/esmovia.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+2. Navigate to the `index.html`
+
+3. Right-click and choose `open with browser`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
